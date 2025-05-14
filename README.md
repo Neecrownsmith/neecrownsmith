@@ -57,7 +57,7 @@ Computer Science student at **University of Lagos (UNILAG)** with:
       <img src="https://github-readme-stats.vercel.app/api?username=neecrownsmith&show_icons=true&theme=radical" width="100%" height="100%"/>
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neecrownsmith&layout=compact&theme=radical" width="100%" heigh="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neecrownsmith&layout=compact&theme=radical" width="100%" height="100%"/>
     </td>
   </tr></table>
 </div>
