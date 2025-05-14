@@ -51,11 +51,16 @@ Computer Science student at **University of Lagos (UNILAG)** with:
 * Karate & Fitness
 
 ---
-<div align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=neecrownsmith&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neecrownsmith&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+<div align="center">
+  <table><tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=neecrownsmith&show_icons=true&theme=radical" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neecrownsmith&layout=compact&theme=radical" />
+    </td>
+  </tr></table>
 </div>
-
 ---
 
 🤝 **Let’s connect!** Open to collaborations on data science or full-stack projects.
