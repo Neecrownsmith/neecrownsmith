@@ -52,12 +52,12 @@ Computer Science student at **University of Lagos (UNILAG)** with:
 
 ---
 
-<p align="center" width:"0.5vw">
-  <img src="https://github-readme-stats.vercel.app/api?username=neecrownsmith&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neecrownsmith&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
 </p>
 
-<p align="center" width:"o.5vw">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neecrownsmith&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neecrownsmith&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </p>
 
 ---
